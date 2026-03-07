@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/82ed69ac7190b626.css","style"]
+0:{"buildId":"RMbmUrjbU4UXScS6PvRp6","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"animal-coloring-pages","paramType":null,"paramKey":"animal-coloring-pages","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
